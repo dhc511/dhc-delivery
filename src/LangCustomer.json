@@ -1,0 +1,14 @@
+{
+  "en": {
+    "paymentMethodWarning": "Sukiya regrets that we cannot serve you due to the above reasons. If the order has been paid, you will receive a refund within 3 working days. Please check the balance in your wallet/account. If you have any questions, please contact Hotline 19008012. Thank you!",
+    "telephone": "19008012"
+  },
+  "vi": {
+    "paymentMethodWarning": "Sukiya rất tiếc khi không thể phục vụ Quý khách vì lý do trên. Nếu đơn hàng đã được thanh toán, Quý khách sẽ được hoàn lại tiền hàng trong vòng 03 ngày làm việc. Vui lòng kiểm tra lại số dư trong ví/ tài khoản của mình.  Mọi thắc mắc xin liên hệ Hotline 19008012. Xin cảm ơn!",
+    "telephone": "19008012"
+  },
+  "ja": {
+    "paymentMethodWarning": "上記の理由により、すき家では誠に申し訳ございませんが、ご対応させていただきます。 ご注文の支払いが完了している場合は、3 営業日以内に返金されます。 財布/口座の残高をご確認ください。 ご質問がある場合は、ホットライン 19008012 までご連絡ください。ありがとうございます。",
+    "telephone": "19008012"
+  }
+}

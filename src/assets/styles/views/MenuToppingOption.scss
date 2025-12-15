@@ -1,0 +1,192 @@
+.menu-topping-container {
+    padding-top: 80px;
+}
+
+.food-image {
+    width: 250px;
+    height: auto;
+}
+
+.toppingContent {
+    overflow-y: scroll;
+}
+
+.pc30 {
+    position: relative;
+    width: 33%;
+    float: left;
+    padding: 1px;
+}
+
+.mandatory-item {
+    font-size: 1.5rem
+}
+
+.quantity-control- {
+    &menu {
+        width: auto;
+
+        .quantity {
+            padding: 0px 2rem;
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+
+        .quantity-nav {
+            padding-right: 25px;
+        }
+
+        h6 {
+            line-height: 2.5rem;
+        }
+    }
+
+    &topping {
+        position: relative;
+        width: auto;
+        // margin-left: 16vw;
+        padding-right: 15px;
+
+        .quantity {
+            padding: 0;
+            width: 32px;
+            height: 15px;
+            display: inline-block;
+            margin: 0 auto;
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: 400;
+        }
+    }
+}
+
+.btn- {
+    &menu-plus-minus {
+        width: 50px;
+        height: 45px;
+        font-size: 2rem !important;
+        padding: 0 !important;
+        line-height: 0 !important;
+    }
+
+    &topping-plus-minus {
+        font-size: 1.5rem;
+        line-height: 20%;
+        width: 40px;
+        height: 30px;
+        line-height: 0 !important;
+    }
+
+    &remove {
+        font-size: 0.8rem;
+        padding: 0;
+        height: 24px;
+        width: 24px;
+        position: absolute;
+        left: 90%;
+    }
+
+    &secondary {
+        border: none;
+    }
+
+    &quantity-top {
+        width: 40px;
+        height: 36px;
+        font-size: 34px !important;
+        line-height: 25px;
+        padding: 0px 8px 8px 6px !important;
+    }
+}
+
+
+.pl-0-cus {
+    padding-left: 1px !important;
+}
+
+.custom-img {
+    width: 100%;
+    height: auto;
+    padding-top: 20px;
+}
+
+.button-icon {
+    width: 32px;
+    height: 39px;
+
+    svg {
+        margin: 0px !important;
+    }
+
+    background: none !important;
+    border: 1px solid #dee2e6 !important;
+    padding: 0 0.5em !important;
+
+    svg {
+        margin-bottom: 3px;
+
+        path,
+        polygon {
+            fill: #727272;
+        }
+    }
+
+    &:focus {
+        box-shadow: none !important;
+    }
+
+    &:hover {
+        svg {
+            opacity: 0.5;
+        }
+    }
+}
+
+.option-cus {
+    width: 50px !important;
+}
+
+.min-pus-custom {
+    float: right;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.topping-price {
+    line-height: 200%;
+    margin-left: 4px;
+}
+
+.topping-input {
+    min-height: 35px;
+
+    .option-item {
+        padding-bottom: 1.5rem;
+    }
+
+    .menu-name {
+        display: flex;
+        font-size: 1.5rem;
+    }
+}
+
+.card-info {
+    position: fixed !important;
+    padding-top: 1.5rem;
+    &-left {
+        left: 0px;
+        margin-left: 2rem;
+        z-index: 21;
+    }
+    &-right {
+        right: 0px;
+        margin-right: 2rem;
+        z-index: 20;
+    }
+}
+
+.label-mandatory {
+    padding: 0.8rem 1rem;
+    line-height: 1.5rem;
+    font-size: 1.5rem;
+}

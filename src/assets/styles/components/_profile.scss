@@ -1,0 +1,52 @@
+.header-container {
+    display: block;
+    position: relative;
+    width: 94%;
+    margin: 0 auto;
+    justify-content: space-between;
+    border: 1px gray;
+    border-radius: 4px;
+    padding: 0 2rem;
+    background: white;
+}
+
+.customerinfo-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.25rem 0;
+
+    h5, p  {
+        margin: 0;
+        font-size: 14px;
+        line-height: 1.8;
+    }
+
+    p {
+        font-weight: 500;
+    }
+}
+
+.manage__wrapper {
+    padding: 1rem;
+
+    @media (min-width: 767px) {
+        padding: 0.5rem 20rem;
+    }
+}
+
+.auto-cover {
+    padding: 0 1rem;
+    flex: 1 1 auto;
+
+    @media (min-width: 767px) {
+        padding: 0 20rem;
+    }
+}
+
+.fix-cover {
+    padding: 1rem;
+
+    @media (min-width: 767px) {
+        padding: 1rem 20rem;
+    }
+}

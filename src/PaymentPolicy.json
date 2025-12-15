@@ -1,0 +1,91 @@
+{
+    "en":[
+        {
+            "header": "CHÍNH SÁCH THANH TOÁN",
+            "contents":
+            [
+                
+                {"h":"Sukiya Việt Nam chấp nhận các hình thức thanh toán sau:"},
+                {"h":"1. Phương thức Thanh toán trả trước bao gồm:"},
+                {"hi":"1.1. Thanh toán qua cổng thanh toán trực tuyến Payoo: "},
+                {"p":"- Thanh toán bằng thẻ ATM nội địa."},
+                {"p":"- Thanh toán bằng thẻ tín dụng/ghi nợ: Thẻ Visa, Mastercard, JCB,..."},
+                {"p":"- Thanh toán bằng QR code."},
+                {"hi":"1.2. Thanh toán qua cổng thanh toán trực tuyến Momo: "},
+                {"p":"- Thanh toán bằng QR code."},
+                {"h":"2. Thanh toán trả sau:"},
+                {"p":" - Thanh toán bằng tiền mặt khi nhận hàng."},
+                {"h":"3. Chính sách hoàn tiền cho các đơn hàng thanh toán trực tuyến:"},
+                {"p":" - Sukiya Việt Nam rất tiếc khi không thể hoàn thành đơn hàng của khách hàng. Hình thức hoàn tiền cho các đơn hàng đã thanh toán trực tuyến sẽ phụ thuộc vào phương thức thanh toán của khách hàng."},
+                {"hi":"3.1. Thanh toán qua cổng thanh toán trực tuyến Payoo:"},
+                {"p":"- Thanh toán bằng thẻ nội địa: Tối đa 7 ngày làm việc."},
+                {"p":"- Thanh toán thẻ quốc tế: Tối đa 14 ngày làm việc."},
+                {"hi":"3.2. Thanh toán bằng ví Momo:"},
+                {"p":"- Hoàn tiền về ví Momo mà khách hàng thực hiện thanh toán."},
+                {"h":"Ngoài ra, nếu có vấn đề về vấn đề hoàn tiền, khách hàng có thể liên hệ Hotline 19008012 để được hỗ trợ nhanh nhất."}
+
+            ]
+            
+                
+            
+        }
+        
+    ],
+    "vi":[
+        {
+            "header": "CHÍNH SÁCH THANH TOÁN",
+            "contents":
+            [
+                {"h":"Sukiya Việt Nam chấp nhận các hình thức thanh toán sau:"},
+                {"h":"1. Phương thức Thanh toán trả trước bao gồm:"},
+                {"hi":"1.1. Thanh toán qua cổng thanh toán trực tuyến Payoo: "},
+                {"p":"- Thanh toán bằng thẻ ATM nội địa."},
+                {"p":"- Thanh toán bằng thẻ tín dụng/ghi nợ: Thẻ Visa, Mastercard, JCB,..."},
+                {"p":"- Thanh toán bằng QR code."},
+                {"hi":"1.2 Thanh toán qua cổng thanh toán trực tuyến Momo: "},
+                {"p":"- Thanh toán bằng QR code."},
+                {"h":"2. Thanh toán trả sau:"},
+                {"p":" - Thanh toán bằng tiền mặt khi nhận hàng."},
+                {"h":"3. Chính sách hoàn tiền cho các đơn hàng thanh toán trực tuyến:"},
+                {"p":" - Sukiya Việt Nam rất tiếc khi không thể hoàn thành đơn hàng của khách hàng. Hình thức hoàn tiền cho các đơn hàng đã thanh toán trực tuyến sẽ phụ thuộc vào phương thức thanh toán của khách hàng."},
+                {"hi":"3.1. Thanh toán qua cổng thanh toán trực tuyến Payoo:"},
+                {"p":"- Thanh toán bằng thẻ nội địa: Tối đa 7 ngày làm việc."},
+                {"p":"- Thanh toán thẻ quốc tế: Tối đa 14 ngày làm việc."},
+                {"hi":"3.2. Thanh toán bằng ví Momo:"},
+                {"p":"- Hoàn tiền về ví Momo mà khách hàng thực hiện thanh toán."},
+                {"h":"Ngoài ra, nếu có vấn đề về vấn đề hoàn tiền, khách hàng có thể liên hệ Hotline 19008012 để được hỗ trợ nhanh nhất."}
+            ]
+
+        }
+    ]
+
+    ,
+    "ja":[ 
+        {
+            "header": "CHÍNH SÁCH THANH TOÁN",
+            "contents":
+            [
+                {"h":"Sukiya Việt Nam chấp nhận các hình thức thanh toán sau:"},
+                {"h":"1. Phương thức Thanh toán trả trước bao gồm:"},
+                {"hi":"1.1 Thanh toán qua cổng thanh toán trực tuyến Payoo: "},
+                {"p":"- Thanh toán bằng thẻ ATM nội địa."},
+                {"p":"- Thanh toán bằng thẻ tín dụng/ghi nợ: Thẻ Visa, Mastercard, JCB,..."},
+                {"p":"- Thanh toán bằng QR code."},
+                {"hi":"1.2. Thanh toán qua cổng thanh toán trực tuyến Momo: "},
+                {"p":"- Thanh toán bằng QR code."},
+                {"h":"2. Thanh toán trả sau:"},
+                {"p":" - Thanh toán bằng tiền mặt khi nhận hàng."},
+                {"h":"3. Chính sách hoàn tiền cho các đơn hàng thanh toán trực tuyến:"},
+                {"p":" - Sukiya Việt Nam rất tiếc khi không thể hoàn thành đơn hàng của khách hàng. Hình thức hoàn tiền cho các đơn hàng đã thanh toán trực tuyến sẽ phụ thuộc vào phương thức thanh toán của khách hàng."},
+                {"hi":"3.1. Thanh toán qua cổng thanh toán trực tuyến Payoo:"},
+                {"p":"- Thanh toán bằng thẻ nội địa: Tối đa 7 ngày làm việc."},
+                {"p":"- Thanh toán thẻ quốc tế: Tối đa 14 ngày làm việc."},
+                {"hi":"3.2. Thanh toán bằng ví Momo:"},
+                {"p":"- Hoàn tiền về ví Momo mà khách hàng thực hiện thanh toán."},
+                {"h":"Ngoài ra, nếu có vấn đề về vấn đề hoàn tiền, khách hàng có thể liên hệ Hotline 19008012 để được hỗ trợ nhanh nhất."}
+            ]       
+        }
+    ]
+   
+
+}

@@ -1,0 +1,167 @@
+.deliverystatus-container {
+    max-width: 900px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+.content-image {
+    width: 100px;
+    height: 100px;
+}
+.product-img {
+    width: 7rem;
+    height: 7rem;
+    // width: 12rem;
+    // height: 12rem;
+}
+.image {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.iconPayment {
+    width: 15%;
+    height: 15%;
+    margin-right: 1rem;
+}
+.text-infor {
+    word-wrap: break-word !important;
+}
+.product-value {
+    font-size: 2rem;
+    font-weight: 700;
+}
+.product-name {
+    font-size: 1.5rem;
+}
+.product-topping {
+    font-size: 1.4rem;
+    white-space: pre;
+}
+.repay-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    .message {
+        align-self: center;
+        text-align: center;
+
+        p {
+            margin: 0;
+            font-size: 2.6rem;
+        }
+
+        h3 {
+            color: #9a0406;
+            white-space: pre;
+        }
+    }
+
+    .line {
+        height: 1px;
+        width: 25%;
+        text-align: center;
+        align-self: center;
+        background: rgb(235, 165, 165);
+        margin-top: 12px;
+        margin-bottom: 10px;
+    }
+}
+
+.deliver-to {
+    h4, h5, h6 {
+        font-variant: all-petite-caps;
+        font-size: 2rem;
+    }
+    p {
+        line-height: 2.4rem;
+    }
+    
+}
+
+.animation {
+    background: linear-gradient(90deg, #00A000 50%, transparent 50%), linear-gradient(90deg, #00A000 50%, transparent 50%), linear-gradient(0deg, #00A000 50%, transparent 50%), linear-gradient(0deg, #00A000 50%, transparent 50%);
+    background-repeat: repeat-x, repeat-x, repeat-y, repeat-y;
+    background-size: 10px 4px, 10px 4px, 4px 10px, 4px 10px;
+    background-position: 0px 0px, 200px 100px, 0px 100px, 200px 0px;
+    // padding: 10px;
+    animation: border-dance 15s infinite linear;
+}
+
+@keyframes border-dance {
+    0% {
+        background-position: 0px 0px, 300px 116px, 0px 150px, 216px 0px;
+    }
+    100% {
+        background-position: 300px 0px, 0px 116px, 0px 0px, 216px 150px;
+    }
+}
+
+#add-listing-tab {
+    text-align: -webkit-center;
+    
+    .step-steps {
+        display: -webkit-box;
+        display: flex;
+        flex-wrap: wrap;
+        -webkit-box-pack: justify;
+        justify-content: space-between;
+        padding-left: 0;
+
+        li.active {
+            .circle {
+                color: #00A000;
+            }
+        }
+
+        &>li {
+            flex: 0 0 25%;
+            max-width: 20%;
+        }
+
+        .icon {
+            top: 5px;
+        
+            .circle {
+                color: #E3E3E3;
+                z-index: 1;
+            }
+        
+            .check {
+                top: 0px;
+                font-size: 1.1rem;
+            }
+        }
+
+        .done .icon .circle {
+            color: #00A000;
+        }
+
+        .step-name {
+            font-weight: 600;
+            color: #000000;
+            font-size: 12px;
+            margin-top: 0.5rem;
+            transition: all 0.3s;
+            white-space: normal;
+        }
+    }
+
+    .progress-bar-status {
+        width: 80%;
+        height: 3px;
+        position: relative;
+        top: 33px;
+        text-align: -webkit-center;
+        background-color: #E3E3E3;
+    
+        .static {
+            border-bottom: 3px solid #00A000;
+        }
+    }
+
+    .step-app>.step-steps {
+        overflow: hidden;
+        margin: 0 auto;
+    }
+}

@@ -1,0 +1,79 @@
+.b-sidebar {
+    background: linear-gradient(0deg, #fffbfb 0%, white 16%, white 100%);
+}
+.body-button {
+    display: flex;
+    flex-direction: column;
+
+    button {
+        height: 44px;
+        font-size: 2rem;
+        color: #343a40;    
+    }
+
+    button:hover {
+        color: $primary-color;
+    }
+
+    button:not(:last-child) {
+        border-bottom: 1px dashed gray;
+    }
+}
+
+.qr {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 12px 15px 12px 15px;
+    border: 1px dashed $gray;
+    border-radius: 8px;
+    width: 200px;
+    margin: 0 auto;
+    align-self: flex-end;
+    margin-top: 60px;
+
+    h3, h4, h5 {
+        margin: 0;
+    }
+
+    i {
+        font-size: 2.5rem;
+        margin-left: 2rem;
+    }
+
+    button {
+        position: relative;
+        margin-top: 10px;
+    }
+}
+
+.login-button {
+    display: flex;
+    justify-content: center;
+
+    button {
+        height: auto;
+        padding: 10px 20px;
+        font-size: 2rem;
+        line-height: 3rem;
+        color: $white;    
+        background: $accent-color;
+    }
+}
+
+.brand {
+    letter-spacing: 0.52rem;
+    color: $black;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s;
+    text-align: center;
+    width: 80%;
+    height: 56px;
+    font-size: 2.4rem;
+    margin: 2rem auto;
+    line-height: 5rem;
+    border-bottom: 2px solid $primary-color;
+    text-shadow: 1px 1px 4px #dadada;
+
+}

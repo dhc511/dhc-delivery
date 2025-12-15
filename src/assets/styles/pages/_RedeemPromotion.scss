@@ -1,0 +1,291 @@
+.container-purchase-promo {
+    margin: 20px auto;
+    padding: 30px 20px;
+    border: 1px solid $light-gray;
+    border-radius: 8px;
+    margin-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 1px 4px 1px $light-shadow;
+    max-width: 1100px;
+    min-width: 350px;
+    overflow-x: auto;
+    width: 100%;
+
+    @include media-breakpoint-down(md) {
+        padding: 20px 10px 20px 10px;
+        border: none;
+        box-shadow: none;
+    }
+
+    h1, h2, h3, h4, h5, h6, p {
+        margin: 0
+    }
+    
+    img {
+        width: 96%;
+        align-self: center;
+        border-radius: 12px;
+        // box-shadow: 0px 0px 8px 2px #b9b9b9;
+        animation: fadeIn 0.4s ease-out;
+    }
+
+    p {
+        font-size: 1.7rem;
+        line-height: 2.2rem;
+        margin-top: 0.25rem;
+    }
+
+    p.notice {
+        font-size: 1.4rem;
+        color: $gray;
+        text-align: center;
+    }
+
+    .button--outline {
+        padding: 1rem 3.2rem;
+        font-size: 1.8rem;
+        i {
+            font-size: 1.8rem;
+            padding-right: 2rem;
+        }
+    }
+
+    .promo-name {
+        text-align: center;
+        margin: 0;
+        padding: 4rem 0 1rem 0;
+        cursor: default;
+        h3 {
+            font-size: 2.4rem;
+            letter-spacing: 0.01rem;
+            text-transform: uppercase;
+        }
+
+        @include media-breakpoint-down(xs) {
+            padding: 2.5rem 0 0.5rem 0;
+            h3 {
+                font-size: 2rem;
+            }
+        }
+    }
+
+    .promo-condition {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin-top: 1rem;
+        margin-bottom: 3rem;
+        cursor: default;
+
+        .discount, .minimum-amount, .limit {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 2rem 2rem;
+        }
+
+        .vertical-line {
+            align-self: center;
+            height: 6rem;
+        }
+
+        @media only screen and (max-width: 700px) {
+            flex-direction: column;
+            margin-top: 0;
+
+            .vertical-line {
+                height: 1rem;
+            }
+
+            .discount, .minimum-amount, .limit {
+                padding: 0.5rem 1rem;
+            }
+        }
+    }
+
+    .promo-date {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        cursor: default;
+
+        .from, .to {
+            display: flex;
+            align-items: center;
+            padding: 1.2rem 2.4rem;
+            margin: 0 1.5rem;
+            height: auto;
+            width: auto;
+            color: $white;
+            background-color: #652198;
+            border: none;
+            font-weight: 500;
+            border-radius: 24px;
+            letter-spacing: 0.02rem;
+            box-shadow: inset 0px 0px 7px #461c65;
+        }
+        .dash {
+            width: 12px;
+            height: 2px;
+            background: #230050;
+        }
+        p {
+            margin-top: 0;
+            font-size: 1.6rem;
+            line-height: 2rem;
+        }
+
+        @include media-breakpoint-down(md) {
+            .from, .to {
+                padding: 1rem 2rem;
+            }
+        }
+
+    }
+
+    .promo-info {
+        align-self: flex-start;
+        margin-top: 1rem;
+        padding: 2rem 7rem;
+        display: flex;
+        flex-direction: column;
+
+        @include media-breakpoint-down(md) {
+            padding: 2rem 1rem;
+        }
+
+        p {
+            font-size: 1.7rem;
+            line-height: 2.4rem;
+        }
+
+        h2 {
+            font-size: 2.3rem;
+            font-weight: 700;
+            // font-variant: all-petite-caps;
+        }
+
+        .item {
+            margin-bottom: 3.6rem;
+            .title {
+                display: flex;
+                justify-content: flex-start;
+
+                i {
+                    padding-right: 15px;
+                    font-size: 2.4rem;
+                }
+
+                i.fa-percentage {
+                    padding-right: 17px;
+                }
+            }
+
+            .info {
+                margin-top: 0.5rem;
+                margin-left: 4rem;
+
+                @include media-breakpoint-down(xs) {
+                    margin-left: 2rem;
+                }
+            }
+
+            ul {
+                margin-left: 3rem;
+                li {
+                    font-size: 1.7rem;
+                    list-style-type: disc;
+
+                    &::marker {
+                        color: $primary-color;
+                    }
+                }
+            }
+
+            .other {
+                display: flex;
+                align-items: center;
+                padding-bottom: 0.25rem;
+                p {
+                    margin-left: 1rem;
+                }
+
+                i {
+                    font-size: 2rem;
+                    padding-right: 1rem;
+                }
+            }
+        }
+    }
+
+    .promo-redeem {
+        display: flex;
+        justify-content: flex-end;
+        align-self: flex-end;
+        flex-direction: column;
+        width: 100%;
+
+        .point-satisfy {
+            color: rgb(13, 112, 13);
+        }
+
+        .point-lack {
+            color: rgb(190, 0, 0);
+        }
+
+        .buttons {
+            display: flex;
+            justify-content: space-between;
+
+            .button--secondary {
+                margin: 0.5rem 0;
+            }
+        }
+
+        @include media-breakpoint-down(xs) {
+            justify-content: center;
+            align-self: center;
+            margin-top: 4rem;
+
+            .buttons {
+                flex-direction: column-reverse;
+                .button--secondary {
+                    margin-top: 16px;
+                }
+            }
+        }
+
+        .point {
+            display: flex;
+            flex-direction: row;
+            align-self: flex-end;
+            text-align: right;
+            margin-bottom: 1rem;
+
+            p {
+                margin-top: 0.2rem;
+                font-weight: 500;
+            }
+
+            @include media-breakpoint-down(xs) {
+                align-self: center;
+                text-align: center;
+            }
+        }
+
+        .yours {
+            margin-right: 4px;
+        }
+
+        .vertical-line {
+            margin: 0 16px;
+        }
+    }
+
+    
+}

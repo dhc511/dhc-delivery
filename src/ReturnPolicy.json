@@ -1,0 +1,55 @@
+{
+    "en":[
+        {
+            "header": "CHÍNH SÁCH ĐỔI TRẢ",
+            "contents":
+            [
+                {"h":"Chính sách trả hàng:"},
+                {"p":" - Sau khi đặt hàng, khách hàng không thể thay đổi đơn hàng đã đặt."},
+                {"p":" - Vui lòng kiểm tra kỹ thông tin đặt hàng bao gồm thông tin giao nhận chủng loại và số lượng món trước khi nhấn gửi đơn hàng. "},
+                {"p":" - Trường hợp khách hàng phát hiện phần ăn bị nhầm lẫn do lỗi của Sukiya Việt Nam, vui lòng liên hệ ngay với chúng tôi qua Hotline 19008012. Sukiya Việt Nam sẽ kiểm tra và liên hệ giải quyết cho khách hàng trong thời gian nhanh nhất kể từ khi nhận được thông tin."},
+                {"p":"- Ngay tại thời điểm tài xế bàn giao sản phẩm cho khách hàng, khách hàng vui lòng tiến hành đồng kiểm tra sản phẩm với tài xế để kiểm tra hình thức bên ngoài của món ăn."},
+                {"p":"- Trường hợp sản phẩm không đúng hoặc sản phẩm bị tổn hại hình thức bên ngoài do vận chuyển, vui lòng chụp lại hình ảnh đơn hàng đã nhận và liên hệ Hotline 19008012 để được hỗ trợ nhanh nhất."},
+                {"p":"- Trường hợp khách hàng phát hiện phần ăn bị hỏng, không đạt chất lượng,... Vui lòng liên hệ ngay với chúng tôi qua Hotline 19008012.  Sukiya Việt Nam sẽ tiến hành kiểm tra ngay và đổi hàng cho khách trong thời gian sớm nhất kể từ khi nhận được thông tin."},
+                {"p":"- Trong trường hợp khách hàng không đồng ý với phương án đổi hàng, Sukiya sẽ hoàn lại số tiền bằng với số tiền của món ăn trong đơn hàng của khách hàng."}
+            ]
+            
+        }
+
+    ],
+    "vi":[
+        {
+            "header": "CHÍNH SÁCH ĐỔI TRẢ",
+            "contents":
+            [
+                {"h":"Chính sách trả hàng:"},
+                {"p":"- Sau khi đặt hàng, khách hàng không thể thay đổi đơn hàng đã đặt."},
+                {"p":"- Vui lòng kiểm tra kỹ thông tin đặt hàng bao gồm thông tin giao nhận chủng loại và số lượng món trước khi nhấn gửi đơn hàng. "},
+                {"p":"- Trường hợp khách hàng phát hiện phần ăn bị nhầm lẫn do lỗi của Sukiya Việt Nam, vui lòng liên hệ ngay với chúng tôi qua Hotline 19008012. Sukiya Việt Nam sẽ kiểm tra và liên hệ giải quyết cho khách hàng trong thời gian nhanh nhất kể từ khi nhận được thông tin."},
+                {"p":"- Ngay tại thời điểm tài xế bàn giao sản phẩm cho khách hàng, khách hàng vui lòng tiến hành đồng kiểm tra sản phẩm với tài xế để kiểm tra hình thức bên ngoài của món ăn."},
+                {"p":"- Trường hợp sản phẩm không đúng hoặc sản phẩm bị tổn hại hình thức bên ngoài do vận chuyển, vui lòng chụp lại hình ảnh đơn hàng đã nhận và liên hệ Hotline 19008012 để được hỗ trợ nhanh nhất."},
+                {"p":"- Trường hợp khách hàng phát hiện phần ăn bị hỏng, không đạt chất lượng,... Vui lòng liên hệ ngay với chúng tôi qua Hotline 19008012.  Sukiya Việt Nam sẽ tiến hành kiểm tra ngay và đổi hàng cho khách trong thời gian sớm nhất kể từ khi nhận được thông tin."},
+                {"p":"- Trong trường hợp khách hàng không đồng ý với phương án đổi hàng, Sukiya sẽ hoàn lại số tiền bằng với số tiền của món ăn trong đơn hàng của khách hàng."}
+            ]
+        }
+    ]
+    ,
+    "ja":[ 
+        {
+            "header": "CHÍNH SÁCH ĐỔI TRẢ",
+            "contents":
+            [
+                {"h":"Chính sách trả hàng:"},
+                {"p":"- Sau khi đặt hàng, khách hàng không thể thay đổi đơn hàng đã đặt."},
+                {"p":"- Vui lòng kiểm tra kỹ thông tin đặt hàng bao gồm thông tin giao nhận chủng loại và số lượng món trước khi nhấn gửi đơn hàng. "},
+                {"p":"- Trường hợp khách hàng phát hiện phần ăn bị nhầm lẫn do lỗi của Sukiya Việt Nam, vui lòng liên hệ ngay với chúng tôi qua Hotline 19008012. Sukiya Việt Nam sẽ kiểm tra và liên hệ giải quyết cho khách hàng trong thời gian nhanh nhất kể từ khi nhận được thông tin."},
+                {"p":"- Ngay tại thời điểm tài xế bàn giao sản phẩm cho khách hàng, khách hàng vui lòng tiến hành đồng kiểm tra sản phẩm với tài xế để kiểm tra hình thức bên ngoài của món ăn."},
+                {"p":"- Trường hợp sản phẩm không đúng hoặc sản phẩm bị tổn hại hình thức bên ngoài do vận chuyển, vui lòng chụp lại hình ảnh đơn hàng đã nhận và liên hệ Hotline 19008012 để được hỗ trợ nhanh nhất."},
+                {"p":"- Trường hợp khách hàng phát hiện phần ăn bị hỏng, không đạt chất lượng,... Vui lòng liên hệ ngay với chúng tôi qua Hotline 19008012.  Sukiya Việt Nam sẽ tiến hành kiểm tra ngay và đổi hàng cho khách trong thời gian sớm nhất kể từ khi nhận được thông tin."},
+                {"p":"- Trong trường hợp khách hàng không đồng ý với phương án đổi hàng, Sukiya sẽ hoàn lại số tiền bằng với số tiền của món ăn trong đơn hàng của khách hàng."}
+            ]
+        }
+    ]
+   
+
+}

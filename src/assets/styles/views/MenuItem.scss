@@ -1,0 +1,29 @@
+
+
+.buy-info{
+    margin-top: 20px;
+}
+
+.item-price {
+    font-size: 20px;
+    line-height: 1;
+    color: #212529;
+}
+
+.card-text {
+    text-align: center;
+}
+
+
+.card-img {
+    padding-left: 0rem;
+
+    @include media-breakpoint-down(xs) {
+        padding: 0rem;
+        border-radius: 0.5rem;
+    }
+}
+
+.min-height{
+    min-height: 80px;
+}

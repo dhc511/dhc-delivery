@@ -1,0 +1,8 @@
+.footer-container {
+    z-index: 0;
+    padding: 0 19vw;
+
+    @media (max-width: 576px) {
+        padding: 0 5vw;
+    }
+}

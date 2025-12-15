@@ -1,0 +1,226 @@
+{
+    "en":
+    {
+        "FooterLeft": {
+            "BRAND_NAME": "IL CORDA",
+            "COMPANY_NAME": "",
+            "BUSINESS_LICENSE_INFO": "",
+            "HEADQUATER_ADDRESS":"11 Lê Thánh Tôn, Bến Nghé, Quận 1,TP. Hồ Chí Minh, Việt Nam",
+            "HEADQUATER_CITY":"",
+            "CONTACT_PHONE":  "+84 28 3823 4929"
+        },
+        "GOOOGLE_MAP_URL":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15677.557439327855!2d106.7057042!3d10.7814616!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5aec6c5a7dc8d9bf!2sIL+CORDA+%7C+CHARCOAL+STEAKHOUSE!5e0!3m2!1sen!2s!4v1562559388795!5m2!1sen!2s",
+        "TITLE_MIDDLE":"DELIVERY TIMES",
+        "FooterMiddle": 
+        [
+
+            {
+                "HALF_A_DAY":   "Lunch",
+                "TIME"      :   "11:45 ~ 14:30",
+                "LAST_ORDER":   "Last order: 14:30"
+            },
+            {
+                "HALF_A_DAY":   "Dinner",
+                "TIME"      :   "17:30 ~ 21:00",
+                "LAST_ORDER":   "Last order for Food: 22:00 <br>| Last order for Drink: 22:30"
+            }
+
+        ],
+        "TITLE_RIGHT":"POLICY INFORMATION",
+        "FooterRight": [
+            {
+                "TITLE":   "Owner Website Information",
+                "LINK"      :   "https://ilcorda.com/thong-tin-chu-so-huu-website"
+            },
+            {
+                "TITLE":   "Certificate Information",
+                "LINK"      :   "https://ilcorda.com/thong-tin-giay-chung-nhan"
+            },
+            {
+                "TITLE":   "General Trading Conditions Information",
+                "LINK"      :   "https://ilcorda.com/thong-tin-ve-dieu-kien-giao-dich-chung"
+            },
+            {
+                "TITLE":   "Privacy Policy",
+                "LINK"      :  "https://ilcorda.com/chinh-sach-bao-mat"
+            },
+            {
+                "TITLE":   "Payment Policy",
+                "LINK"      :   "https://ilcorda.com/chinh-sach-thanh-toan"
+            },
+            {
+                
+                "TITLE":   "Delivery Policy",
+                "LINK"      :  "https://ilcorda.com/chinh-sach-giao-hang"
+            },
+            {
+                "TITLE":   "Return Policy",
+                "LINK"      :  "https://ilcorda.com/chinh-sach-doi-tra"
+            }
+        ],
+        "E_COMMERCE_CERTIFICATION_LINK":"http://online.gov.vn/Home/WebDetails/78753",
+        "E_COMMERCE_CERTIFICATION_IMAGE_LINK":"logoSaleNoti.png",
+        "LOGO_LINK":"logo-ilcorda.png",
+        "LOGO_SOURCE_LINK":"https://ilcorda.com/",
+        "LOGO_TITLE":"CHARCOAL STEAKHOUSE IL CORDA",
+        "COPYRIGHT_TITLE":" © 2021 TSUNAYA VN CO., LTD All rights reserved."
+
+    },
+    "vi":
+    {
+        "FooterLeft": {
+            "BRAND_NAME": "IL CORDA",
+            "COMPANY_NAME": "",
+            "BUSINESS_LICENSE_INFO": "",
+            "HEADQUATER_ADDRESS":"11 Lê Thánh Tôn, Bến Nghé, Quận 1,TP. Hồ Chí Minh, Việt Nam",
+            "HEADQUATER_CITY":"",
+            "CONTACT_PHONE":  "+84 28 3823 4929"
+        },
+        "TITLE_MIDDLE":"THỜI GIAN GIAO HÀNG",
+        "GOOOGLE_MAP_URL":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15677.557439327855!2d106.7057042!3d10.7814616!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5aec6c5a7dc8d9bf!2sIL+CORDA+%7C+CHARCOAL+STEAKHOUSE!5e0!3m2!1sen!2s!4v1562559388795!5m2!1sen!2s",
+
+        "FooterMiddle": 
+        [
+
+            {
+                "HALF_A_DAY":   "Bữa Trưa",
+                "TIME"      :   "11:45 ~ 14:30",
+                "LAST_ORDER":   "Nhận đơn hàng cuối vào lúc: 14:30"
+            },
+            {
+                "HALF_A_DAY":   "Bữa Tối",
+                "TIME"      :   "17:30 ~ 21:00",
+                "LAST_ORDER":   "Đơn hàng đồ ăn cuối vào lúc: 22:00 <br>| đồ uống vào lúc: 22:30"
+            }
+        ],
+        "TITLE_RIGHT":"THÔNG TIN CHÍNH SÁCH",
+        "FooterRight": [
+            {
+                "TITLE":   "Thông tin Chủ sở hữu website",
+                "LINK"      :   "https://ilcorda.com/thong-tin-chu-so-huu-website"
+            },
+            {
+                "TITLE":   "Thông tin Giấy chứng nhận",
+                "LINK"      :   "https://ilcorda.com/thong-tin-giay-chung-nhan"
+            },
+
+            {
+                "TITLE":   "Thông tin về Điều kiện giao dịch chung",
+                "LINK"      :   "https://ilcorda.com/thong-tin-ve-dieu-kien-giao-dich-chung"
+            },
+            {
+                "TITLE":   "Chính sách Bảo mật",
+                "LINK"      :   "https://ilcorda.com/chinh-sach-bao-mat"
+            },
+            {
+                "TITLE":   "Chính sách Thanh toán",
+                "LINK"      :   "https://ilcorda.com/chinh-sach-thanh-toan"
+            },
+            {
+                
+                "TITLE":   "Chính sách Giao hàng",
+                "LINK"      :   "https://ilcorda.com/chinh-sach-giao-hang"
+            },
+            {
+                "TITLE":   "Chính sách Đổi trả",
+                "LINK"      :   "https://ilcorda.com/chinh-sach-doi-tra"
+            }
+                
+        ],
+        "E_COMMERCE_CERTIFICATION_LINK":"http://online.gov.vn/Home/WebDetails/78753",
+        "E_COMMERCE_CERTIFICATION_IMAGE_LINK":"logoSaleNoti.png",
+        "LOGO_LINK":"logo-ilcorda.png",
+        "LOGO_SOURCE_LINK":"https://ilcorda.com/",
+        "LOGO_TITLE":"CHARCOAL STEAKHOUSE IL CORDA",
+        "COPYRIGHT_TITLE":" © 2021 TSUNAYA VN CO., LTD All rights reserved."
+
+
+    },
+    "ja":
+    {
+        "FooterLeft": {
+            "BRAND_NAME": "IL CORDA",
+            "COMPANY_NAME": "",
+            "BUSINESS_LICENSE_INFO": "",
+            "HEADQUATER_ADDRESS":"11 Lê Thánh Tôn, Bến Nghé, Quận 1,TP. Hồ Chí Minh, Việt Nam",
+            "CONTACT_PHONE":  "+84 28 3823 4929"
+        },
+        "TITLE_MIDDLE":"納期",
+        "GOOOGLE_MAP_URL":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15677.557439327855!2d106.7057042!3d10.7814616!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5aec6c5a7dc8d9bf!2sIL+CORDA+%7C+CHARCOAL+STEAKHOUSE!5e0!3m2!1sen!2s!4v1562559388795!5m2!1sen!2s",
+
+        "FooterMiddle": 
+        [
+            {
+                "HALF_A_DAY":   "ランチ",
+                "TIME"      :   "11:45 ~ 14:30",
+                "LAST_ORDER":   "最後の注文: 14:30"
+            },
+            {
+                "HALF_A_DAY":   "夕食",
+                "TIME"      :   "17:30 ~ 21:00",
+                "LAST_ORDER":   "食べ物の最後の注文: 22:00 <br>| 飲み物の最後の注文: 22:30"
+            }
+        ],
+        "TITLE_RIGHT":"ポリシー情報のみ",
+        "FooterRight": [
+            {
+                "TITLE":   "所有者のウェブサイト情報",
+                "LINK"      :   "https://ilcorda.com/thong-tin-chu-so-huu-website"
+            },
+            {
+                "TITLE":   "証明書情報",
+                "LINK"      :   "https://ilcorda.com/thong-tin-giay-chung-nhan"
+            },
+
+            {
+                "TITLE":   "一般取引条件情報",
+                "LINK"      :   "https://ilcorda.com/thong-tin-ve-dieu-kien-giao-dich-chung"
+            },
+            {
+                "TITLE":   "プライバシーポリシー",
+                "LINK"      :   "https://ilcorda.com/chinh-sach-bao-mat"
+            },
+            {
+                "TITLE":   "支払いポリシー",
+                "LINK"      :   "https://ilcorda.com/chinh-sach-thanh-toan"
+            },
+            {
+                
+                "TITLE":   "配送ポリシー",
+                "LINK"      :   "https://ilcorda.com/chinh-sach-giao-hang"
+            },
+            {
+                "TITLE":   "返品規則",
+                "LINK"      :   "https://ilcorda.com/chinh-sach-doi-tra"
+            }
+
+        ],
+        "E_COMMERCE_CERTIFICATION_LINK":"http://online.gov.vn/Home/WebDetails/78753",
+        "E_COMMERCE_CERTIFICATION_IMAGE_LINK":"logoSaleNoti.png",
+        "LOGO_LINK":"logo-ilcorda.png",
+        "LOGO_SOURCE_LINK":"https://ilcorda.com/",
+        "LOGO_TITLE":"CHARCOAL STEAKHOUSE IL CORDA",
+        "COPYRIGHT_TITLE":"© 2021 TSUNAYA VN CO., LTD All rights reserved."
+
+
+    },
+    "BACKGROUND_COLOR":
+    {
+        "LINEARCOLOR":{
+            "COLOR":[
+        
+                {
+                    "COLOR" :"rgba(154,4,6,1)",
+                    "PERCENT": "0"
+                },
+                {
+                    "COLOR" :"rgba(0,0,0,1)",
+                    "PERCENT": "100"
+                }
+            ],
+            "DEG":"10"
+        },
+        "COLOR_BACKGROUND": "rgba(154,4,6,1)"
+    }
+
+}

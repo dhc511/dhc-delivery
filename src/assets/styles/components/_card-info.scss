@@ -1,0 +1,89 @@
+.card-info {
+    position: fixed;
+    padding-top: 1.5rem;
+
+    &--left {
+        left: 0px;
+        margin-left: 2rem;
+        z-index: 21;
+    }
+    &--right {
+        right: 0px;
+        margin-right: 2rem;
+        z-index: 20;
+    }
+}
+
+.card-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: $white;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 6px;
+
+    &__header {
+        &__store-address {
+            color: $gray;
+            font-size: 1.4rem;
+            line-height: 1.5;
+        }
+    }
+
+    &__body {
+        text-align: left;
+        padding: 1rem;
+        border: 1px solid rgba(0,0,0,.125);
+        border-left: none;
+        border-right: none;
+
+        .quantity {
+            padding: 0px 20px;
+        }
+    }
+
+    &__footer {
+        padding: 1rem;
+    }
+}
+
+.item {
+    display: block;
+    margin-bottom: 0.4rem;
+
+    &__name {
+        p {
+            font-size: 1.5rem;
+            font-weight: 600;
+            line-height: 1.7rem;
+            margin: 0;
+        }
+
+        span {
+            font-size: 2rem;
+            color: $light-gray;
+            margin-right: 0.5rem;
+        }
+
+        &__topping {
+            color: $light-gray;
+            white-space: pre-wrap;
+        }
+    }
+
+    &__price {
+        text-align: right;
+        font-weight: 500;
+    }
+}
+
+.total-row {
+    margin-top: 1rem;
+    
+    span {
+        font-weight: 500;
+    }
+}

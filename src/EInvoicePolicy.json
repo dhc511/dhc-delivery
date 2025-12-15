@@ -1,0 +1,168 @@
+{
+    "en":[
+        {
+            "header": "Policy for issuing VAT einvoices",
+            "contents":
+            [
+                {"h":"VAT EInvoice Policy"},
+                {"p":"1. This policy applies to customers ordering at website https://delivery.sukiya.com.vn/."},
+                {"p":"2. EInvoice will be issued after 3-5 days from the date of receiving the information."},
+                {"p":"3. Please fill in all information and send it to Sukiya within 06 hours from the time of dining."},
+                {"p":"4. The VAT invoice will be issued according to the value of the dish, excluding shipping fees."},
+                {"p":"5. For any questions, please contact the accounting department: 028.3910.3990 (Ms Quynh)."},
+                {"p":"6. EInvoice submission process:"},
+                {"p":" "},
+                {"p":"(1) After receiving the goods, the customer will receive an einvoice from the restaurant."},
+                {"p":"(2) Customers scan the QR below to fill in billing information."},
+                {"qrcode":"/assets/images/e-invoice-qrcode.png"},
+                {"row": [
+                    {
+                        "w": 4,
+                        "items": [
+                            {"p":"(3) Fill in all information including:"},
+                            {"p":" - EInvoice receiving email (*)"},
+                            {"p":" - Customer name (*)"},
+                            {"p":" - Contact phone number (*)"},
+                            {"p":" - Dining branch[1]"},
+                            {"p":" - EInvoice date [2]"},
+                            {"p":" - Total amount [3]"},
+                            {"p":" - EInvoice number [4]"}
+                        ]
+                    },
+                    {
+                        "w": 8,
+                        "items": [
+                            {
+                                "img":"/assets/images/e-invoice-qrcode.png",
+                                "class": "bill-img"
+                            }
+                        ]
+                    }
+                ]},
+                {"p":" "},
+                {"p":"(4) Check information and submit form."},
+                {"p":" "},
+                {"p":"Notes on entering VAT einvoice information"},
+                {"p":"- Please fill in the information correctly and completely as instructed."},
+                {"p":"- Because the data will be updated automatically, the restaurant will not be responsible for errors due to incorrect information provided."},
+                {"p":" "},
+                {"p":" "},
+                {"p":"Contact information"},
+                {"p":"Zensho Vietnam Co., Ltd"},
+                {"p":"Address: Room 03, 14th Floor, Pearl Plaza, 561A Dien Bien Phu, Ward 25, Binh Thanh District, Ho Chi Minh City, Vietnam"},
+                {"p":"Hotline: 19008012"}
+            ]
+        }
+    ],
+    "vi":[
+        {
+            "header": "Chính sách xuất hóa đơn GTGT",
+            "contents":
+            [
+                {"h":"Chính sách xuất hóa đơn GTGT"},
+                {"p":"1. Chính sách này áp dụng cho khách hàng đặt hàng tại website https://delivery.sukiya.com.vn/."},
+                {"p":"2. Hóa đơn sẽ được xuất sau 3 - 5 ngày, kể từ ngày nhận được thông tin."},
+                {"p":"3. Quý khách vui lòng điền đầy đủ thông tin và gửi về cho Sukiya trong vòng từ 06 giờ, kể từ thời gian dùng bữa."},
+                {"p":"4. Hóa đơn GTGT sẽ được xuất theo giá trị của món ăn, không bao gồm phí vận chuyển."},
+                {"p":"5. Mọi thắc mắc vui lòng liên hệ bộ phận kế toán: 028.3910.3990 (Ms Quỳnh)."},  
+                {"p":"6. Quy trình gửi thông tin xuất hóa đơn:"},  
+                {"p":" "},  
+                {"p":"(1) Sau khi nhận hàng, khách hàng sẽ nhận được hóa đơn từ nhà hàng."},
+                {"p":"(2) Khách hàng quét QR bên dưới để điền thông tin xuất hóa đơn."},    
+                {"qrcode":"/assets/images/e-invoice-qrcode.png"}, 
+                {"row": [
+                    {
+                        "w": 4,
+                        "items": [
+                            {"p":"(3) Điền đầy đủ các thông tin bao gồm:"},  
+                            {"p":"  - Email nhận hóa đơn (*)"},
+                            {"p":"  - Tên khách hàng (*)"},
+                            {"p":"  - Số điện thoại liên hệ (*)"},
+                            {"p":"  - Chi nhánh dùng bữa [1]"},
+                            {"p":"  - Ngày trên hóa đơn [2]"},
+                            {"p":"  - Tổng tiền [3]"},
+                            {"p":"  - Số hóa đơn [4]"}
+                        ]
+                    },
+                    {
+                        "w": 8,
+                        "items": [
+                            {
+                                "img":"/assets/images/e-invoice-qrcode.png",
+                                "class": "bill-img"
+                            }
+                        ]
+                    }
+                ]},
+                {"p":" "}, 
+                {"p":"(4) Kiểm tra thông tin và gửi form."},
+                {"p":" "}, 
+                {"p":"Lưu ý về việc nhập thông tin xuất hóa đơn GTGT"},
+                {"p":"- Vui lòng điền thông tin đúng và đầy đủ như hướng dẫn."},
+                {"p":"- Vì dữ liệu sẽ được cập nhật tự động, nên nhà hàng sẽ không chịu trách nhiệm với những sai sót do thông tin cung cấp bị sai."},
+                {"p":" "}, 
+                {"p":" "}, 
+                {"p":"Thông tin liên hệ"},
+                {"p":"Công ty TNHH Zensho Việt Nam"},
+                {"p":"Địa chỉ: Phòng 03, Tầng 14, Pearl Plaza, 561A Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam"},
+                {"p":"Hotline: 19008012"}
+            ]
+        }
+    ],
+    
+    "ja":[ 
+        {
+            "header": "Policy for issuing VAT einvoices",
+            "contents":
+            [
+                {"h":"Policy for issuing VAT einvoices"},
+                {"p":"1. This policy applies to customers ordering at website https://delivery.sukiya.com.vn/."},
+                {"p":"2. EInvoice will be issued after 3-5 days from the date of receiving the information."},
+                {"p":"3. Please fill in all information and send it to Sukiya within 06 hours from the time of dining."},
+                {"p":"4. The VAT invoice will be issued according to the value of the dish, excluding shipping fees."},
+                {"p":"5. For any questions, please contact the accounting department: 028.3910.3990 (Ms Quynh)."},
+                {"p":"6. EInvoice submission process:"},
+                {"p":" "},
+                {"p":"(1) After receiving the goods, the customer will receive an einvoice from the restaurant."},
+                {"p":"(2) Customers scan the QR below to fill in billing information."},
+                {"qrcode":"/assets/images/e-invoice-qrcode.png"},
+                {"row": [
+                    {
+                        "w": 4,
+                        "items": [
+                            {"p":"(3) Fill in all information including:"},
+                            {"p":" - EInvoice receiving email (*)"},
+                            {"p":" - Customer name (*)"},
+                            {"p":" - Contact phone number (*)"},
+                            {"p":" - Dining branch[1]"},
+                            {"p":" - EInvoice date [2]"},
+                            {"p":" - Total amount [3]"},
+                            {"p":" - EInvoice number [4]"}
+                        ]
+                    },
+                    {
+                        "w": 8,
+                        "items": [
+                            {
+                                "img":"/assets/images/e-invoice-qrcode.png",
+                                "class": "bill-img"
+                            }
+                        ]
+                    }
+                ]},
+                {"p":" "},
+                {"p":"(4) Check information and submit form."},
+                {"p":" "},
+                {"p":"Notes on entering VAT einvoice information"},
+                {"p":"- Please fill in the information correctly and completely as instructed."},
+                {"p":"- Because the data will be updated automatically, the restaurant will not be responsible for errors due to incorrect information provided."},
+                {"p":" "},
+                {"p":" "},
+                {"p":"Contact information"},
+                {"p":"Zensho Vietnam Co., Ltd"},
+                {"p":"Address: Room 03, 14th Floor, Pearl Plaza, 561A Dien Bien Phu, Ward 25, Binh Thanh District, Ho Chi Minh City, Vietnam"},
+                {"p":"Hotline: 19008012"}
+            ]
+        }
+    ]
+}

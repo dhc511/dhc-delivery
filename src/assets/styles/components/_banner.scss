@@ -1,0 +1,8 @@
+.banner__promotion, .carousel-item  {
+    height: 150px;
+
+    &-border {
+        border-radius: 10px;
+        overflow: hidden;
+    }
+}

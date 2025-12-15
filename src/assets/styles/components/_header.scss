@@ -1,0 +1,243 @@
+.header {
+    position: fixed;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    display: flex;
+    padding: 1rem 2.5rem;
+    background: $header-color;
+    height: 5.4rem;
+    backdrop-filter: blur(5px);
+    border-bottom: 1px solid #c2c2c2;
+    box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.2);
+
+    @include media-breakpoint-down(xs) {
+        padding: 1rem;
+    }
+
+    &__logo {
+        cursor: pointer;
+        width: 10rem;
+
+        @include media-breakpoint-down(xs) {
+            width: 8rem;
+        }
+    }
+
+    &__sidebar {
+        width: auto;
+        height: 100%;
+        margin-left: 0.5rem;
+
+        .toggle:before {
+            font-size: 3rem;
+            text-shadow: 1px 1px 3px #c2c2c2;
+        }
+    }
+
+    &__main {
+        flex: 1 1 auto;
+        display: flex;
+        justify-content: flex-end;
+        padding: 2px;
+
+        .header-qr {
+            width: auto;
+            font-size: 2.4rem;
+            padding-left: 12px;
+            line-height: 2.8rem;
+        }
+
+        .header-location
+        {
+            padding-left: 12px;
+            line-height: 2.8rem; 
+            align-items: end;
+            &label {
+                font-size: 0.9rem;
+                width: 100px;
+
+            } 
+            i
+            {
+                padding-left: 5px;
+                width: 20px;
+            }
+        }
+    }
+
+
+    i {
+        color: $gray;
+        cursor: pointer;
+
+        // &.fa-store,
+        &.fa-shopping-bag {
+            // padding: 0 8px;
+            // margin: auto 0;
+
+            @include media-breakpoint-up(md) {
+                // padding: 0 1rem;
+                // display: none;
+            }
+        }
+
+        &.fa-store {
+            @include media-breakpoint-up(lg) {
+                display: none;
+            }
+        }
+
+        &.fa-shopping-bag {
+            position: relative;
+            transition: all 0.5s;
+
+            div {
+                position: absolute;
+                top: -7px;
+                right: -5px;
+                background: $primary-color;
+                border-radius: 50%;
+                width: 1.8rem;
+                height: 1.8rem;
+                font-size: 1rem;
+                color: $white;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+                    Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif,
+                    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol',
+                    'Noto Color Emoji';
+                font-weight: 500;
+            }
+        }
+    }
+
+    .cart-btn {
+        font-size: 2rem;
+        display: flex;
+        margin: 2px;
+        padding-right: 7px;
+    }
+
+    &__brand {
+        font-size: 2rem;
+        letter-spacing: 0.4rem;
+        color: $gray;
+        font-weight: 500;
+        float: left;
+        cursor: pointer;
+        transition: all 0.3s;
+        margin: auto;
+        text-shadow: 1px 1px 4px #dadada;
+
+        &:hover {
+            letter-spacing: 0.47rem;
+            color: $primary-color;
+            transition-duration: 0.32s;
+        }
+
+        @include media-breakpoint-down(xs) {
+            font-size: 1.5rem;
+        }
+    }
+
+    .dropbtn {
+        color: $gray;
+        padding: 4px 12px;
+        font-size: 14px;
+        border: none;
+    }
+
+    .dropdown {
+        position: relative;
+        display: inline-block;
+        padding-right: 7px;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        color: $black;
+        background-color: rgba(254, 254, 254, 0.96);
+        backdrop-filter: blur(5px);
+        width: auto;
+        min-width: 224px;
+        box-shadow: 1px 2px 4px 0px rgba(0, 0, 0, 0.3);
+        border-radius: 6px;
+        z-index: 50;
+        cursor: pointer;
+        left: -40px;
+    }
+
+    .dropdown-content a {
+        color: $black;
+        font-size: 1.8rem;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        letter-spacing: 0.02rem;
+    }
+
+    .dropdown-content a {
+        &:hover {
+            background-color: $accent-color;
+            color: white;
+            transition: 0.1s;
+            box-shadow: inset 1px 1px 6px $light-gray;
+        }
+
+        &:not(:hover) {
+            transition: 0.1s;
+        }
+    }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+    .dropdown:hover .dropbtn {
+        background: $primary-color;
+        color: $white;
+    }
+}
+
+
+.language-option {
+    max-width: 110px;
+    border: 1px solid $gray;
+    align-items: center;
+    border-radius: 5px;
+    overflow: hidden;
+    text-align: center;
+    height: 28px;
+    
+
+    label {
+        font-weight: 500;
+        cursor: pointer;
+        width: auto;
+        height: auto;
+        transition: transform 1s;
+        color: $gray;
+        padding: 0.4rem 1rem;
+
+       
+
+        &:not(.active):hover {
+            background: #faadad;
+        }
+    }
+
+    input {
+        display: none;
+
+        &:checked + label {
+            border: 1px solid $primary-color;
+            cursor: default;
+            color: $white;
+            background: $primary-color;
+        }
+    }
+}

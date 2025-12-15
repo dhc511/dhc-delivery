@@ -1,0 +1,209 @@
+{
+    "en":
+    {
+        "FooterLeft": {
+            "BRAND_NAME": "SUKIYA VIETNAM",
+            "COMPANY_NAME": "ZENSHO VIETNAM COMPANY LIMITED",
+            "BUSINESS_LICENSE_INFO": "Business License No. 0313626878 was first issued on January 19, 2016 by Business Registration Office, HCMC D.P.I ",
+            "HEADQUATER_ADDRESS":"Room 03, F14, Pearl Plaza, 561A Dien Bien Phu Rd, Ward 25, Binh Thanh Dist, HCM City, VN.",
+            "CONTACT_PHONE":  "Hotline: 19008012"
+        },
+        "GOOOGLE_MAP_URL":"",
+        "TITLE_MIDDLE":"DELIVERY TIMES",
+        "FooterMiddle": 
+        [
+
+            {
+                "HALF_A_DAY":   "Whole Day",
+                "TIME"      :   "10:00 ~ 21:00",
+                "LAST_ORDER":   "Last order: 20:00"
+            }
+
+        ],
+        "TITLE_RIGHT":"POLICY INFORMATION",
+        "FooterRight": [
+            {
+                "TITLE":   "Owner Website Information",
+                "LINK"      :   "/website-owners"
+            },
+
+            {
+                "TITLE":   "General Trading Conditions Information",
+                "LINK"      :   "/general-trading-conditions"
+            },
+            {
+                "TITLE":   "E-Invoice Policy",
+                "LINK"      :   "/e-invoice-policy"
+            },
+            {
+                "TITLE":   "Privacy Policy",
+                "LINK"      :   "/privacy-policy"
+            },
+            {
+                "TITLE":   "Payment Policy",
+                "LINK"      :   "/payment-policy"
+            },
+            {
+                
+                "TITLE":   "Delivery Policy",
+                "LINK"      :   "/delivery-policy"
+            },
+            {
+                "TITLE":   "Return Policy",
+                "LINK"      :   "/return-policy"
+            }
+        ],
+        "E_COMMERCE_CERTIFICATION_LINK":"http://online.gov.vn/Home/WebDetails/105558",
+        "E_COMMERCE_CERTIFICATION_IMAGE_LINK":"logoSaleNoti.png",
+        "LOGO_LINK":"logo.png",
+        "LOGO_SOURCE_LINK":"https://www.sukiya.com.vn/",
+        "LOGO_TITLE":"SUKIYA VIETNAM",
+        "COPYRIGHT_TITLE":" ©SUKIYA VIETNAM. All Rights Reserved."
+
+    },
+    "vi":
+    {
+        "FooterLeft": {
+            "BRAND_NAME": "SUKIYA VIETNAM",
+            "COMPANY_NAME": "Công ty TNHH Zensho Việt Nam",
+            "BUSINESS_LICENSE_INFO": "Giấy phép kinh doanh số 0313626878 cấp lần đầu ngày 19/01/2016 bởi Phòng Đăng Ký Kinh Doanh, Sở Kế Hoạch và Đầu Tư TP.HCM.",
+            "HEADQUATER_ADDRESS":"Phòng 03, Tầng 14, Pearl Plaza, 561A <br> Điện Biên Phủ, P.25, Q.Bình Thạnh, HCM, VN.",
+            "CONTACT_PHONE":  "Hotline: 19008012"
+        },
+        "TITLE_MIDDLE":"THỜI GIAN GIAO HÀNG",
+        "GOOOGLE_MAP_URL":"",
+
+        "FooterMiddle": 
+        [
+            {
+                "HALF_A_DAY":   "Cả Ngày",
+                "TIME"      :   "10:00 ~ 21:00",
+                "LAST_ORDER":   "Nhận đơn hàng cuối vào lúc: 20:00"
+            }
+        ],
+        "TITLE_RIGHT":"THÔNG TIN CHÍNH SÁCH",
+        "FooterRight": [
+            {
+                "TITLE":   "Thông tin Chủ sở hữu website",
+                "LINK"      :   "/website-owners"
+            },
+
+            {
+                "TITLE":   "Thông tin về Điều kiện giao dịch chung",
+                "LINK"      :   "/general-trading-conditions"
+            },
+            {
+                "TITLE":   "Chính sách Hóa Đơn Điện Tử",
+                "LINK"      :   "/e-invoice-policy"
+            },
+            {
+                "TITLE":   "Chính sách Bảo mật",
+                "LINK"      :   "/privacy-policy"
+            },
+            {
+                "TITLE":   "Chính sách Thanh toán",
+                "LINK"      :   "/payment-policy"
+            },
+            {
+                
+                "TITLE":   "Chính sách Giao hàng",
+                "LINK"      :   "/delivery-policy"
+            },
+            {
+                "TITLE":   "Chính sách Đổi trả",
+                "LINK"      :   "/return-policy"
+            }
+                
+        ],
+        "E_COMMERCE_CERTIFICATION_LINK":"http://online.gov.vn/Home/WebDetails/105558",
+        "E_COMMERCE_CERTIFICATION_IMAGE_LINK":"logoSaleNoti.png",
+        "LOGO_LINK":"logo.png",
+        "LOGO_SOURCE_LINK":"https://www.sukiya.com.vn/",
+        "LOGO_TITLE":"SUKIYA VIETNAM",
+        "COPYRIGHT_TITLE":"©Bản quyền thuộc về SUKIYA VIETNAM"
+
+
+    },
+    "ja":
+    {
+        "FooterLeft": {
+            "BRAND_NAME": "SUKIYA VIETNAM",
+            "COMPANY_NAME": "ゼンショーベトナムカンパニーリミテッド",
+            "BUSINESS_LICENSE_INFO": "ビジネスライセンス番号 0313626878 は、2016 年 1 月 19 日にホーチミン市計画投資局ビジネス登録局によって初めて発行されました。",
+            "HEADQUATER_ADDRESS": "ルーム03、14階、パールプラザ、561A Dien Bien Phu、25区、ビンタン区、ホーチミン市、ベトナム。",
+            "CONTACT_PHONE":  "ホットライン: 19008012"
+        },
+        "TITLE_MIDDLE":"納期",
+        "GOOOGLE_MAP_URL":"",
+
+        "FooterMiddle": 
+        [
+            {
+                "HALF_A_DAY":   "一日中",
+                "TIME"      :   "10:00 ~ 21:00",
+                "LAST_ORDER":   "最後の注文: 20:00"
+            }
+        ],
+        "TITLE_RIGHT":"ポリシー情報のみ",
+        "FooterRight": [
+            {
+                "TITLE":   "所有者のウェブサイト情報",
+                "LINK"      :   "/website-owners"
+            },
+
+            {
+                "TITLE":   "一般取引条件情報",
+                "LINK"      :   "/general-trading-conditions"
+            },
+            {
+                "TITLE":   "E-Invoice Policy",
+                "LINK"      :   "/e-invoice-policy"
+            },
+            {
+                "TITLE":   "プライバシーポリシー",
+                "LINK"      :   "/privacy-policy"
+            },
+            {
+                "TITLE":   "支払いポリシー",
+                "LINK"      :   "/payment-policy"
+            },
+            {
+                
+                "TITLE":   "配送ポリシー",
+                "LINK"      :   "/delivery-policy"
+            },
+            {
+                "TITLE":   "返品規則",
+                "LINK"      :   "/return-policy"
+            }
+
+        ],
+        "E_COMMERCE_CERTIFICATION_LINK":"http://online.gov.vn/Home/WebDetails/105558",
+        "E_COMMERCE_CERTIFICATION_IMAGE_LINK":"logoSaleNoti.png",
+        "LOGO_LINK":"logo.png",
+        "LOGO_SOURCE_LINK":"https://www.sukiya.com.vn/",
+        "LOGO_TITLE":"SUKIYA VIETNAM",
+        "COPYRIGHT_TITLE":" ©SUKIYA VIETNAM. All Rights Reserved."
+
+
+    },
+    "BACKGROUND_COLOR":
+    {
+        "LINEARCOLOR":{
+            "COLOR":[
+        
+                {
+                    "COLOR" :"rgba(154,4,6,1)",
+                    "PERCENT": "0"
+                },
+                {
+                    "COLOR" :"rgba(0,0,0,1)",
+                    "PERCENT": "100"
+                }
+            ],
+            "DEG":"10"
+        },
+        "COLOR_BACKGROUND": "rgba(154,4,6,1)"
+    }
+
+}

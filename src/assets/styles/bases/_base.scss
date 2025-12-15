@@ -1,0 +1,106 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    height: 100%;
+    background-color: white;
+    padding-right: 0px;
+}
+
+#app {
+    background: #fdfdfd;
+    color: $text-color;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    align-content: center;
+    display: block;
+    margin: 0 auto;
+    justify-content: center;
+    text-align: left;
+
+    .invalid-feedback {
+        font-size: 1.4rem !important;
+    }
+
+    .vertical-center {
+        position: relative;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+
+    .wrapper {
+        padding-top: 5rem;
+        margin: 0 auto;
+        background: #fdfdfd !important;
+    
+        &--flex {
+            padding-top: 5rem;
+            margin: 0 auto;
+            height: 100%;
+            width: 100%;
+            position: absolute;
+            display: flex;
+            flex-flow: column;
+        }
+    }
+}
+
+.modal- {
+    &title {
+        font-size: 2rem;
+    }
+    &content {
+        border-radius: 8px;
+        padding: 4px 6px;
+    }
+
+    &footer {
+        padding: 1rem 0 0.5rem 0 !important;
+
+        button {
+            padding: 0 3rem !important;
+            width: auto;
+            height: 48px;
+            border-radius: 8px;
+        }
+    }
+    
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    // border: 0;
+    border-top: 1px solid #c9c9c9;
+}
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.text-red {
+    color: $primary-color;
+}
+
+.text-green {
+    color : $green;
+}
+
+.text-orange {
+    color : $orange;
+}
+
+@for $i from 1 through 12 {
+    .col-xs, .col-sm, .col-md, .col-lg, .col {
+        &-#{$i} {
+            padding-left: 0;
+            padding-right: 0;
+        }
+    }
+}

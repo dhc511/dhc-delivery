@@ -1,0 +1,46 @@
+@media (max-width: 1500px) {
+}
+
+@media (max-width: 1200px) {
+}
+
+@media (min-width: 1025px) {
+    .topping-input {
+        flex: 0 0 100%;
+        // max-width: 80%;
+    }
+}
+
+@media (max-width: 992px) {
+}
+
+@media (max-width: 767px) {
+}
+
+@media (max-width: 576px) {
+    .promotion-wrapper {
+        max-width: 520px;
+    }
+
+    .promotion-wrapper > h5 {
+        overflow: scroll;
+    }
+
+    .btn-remove-promotion {
+        margin-left: 2rem;
+    }
+}
+
+@media (max-width:386px) {
+    .promotion-wrapper {
+        max-width: 300px;
+    }
+
+    .promotion-wrapper > h5 {
+        overflow: scroll;
+    }
+
+    .btn-remove-promotion {
+        margin-left: 1.5rem;
+    }
+}

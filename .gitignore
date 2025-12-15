@@ -1,0 +1,10 @@
+*.pyc
+service_print/logs/
+server_print/logs/
+.vscode
+server_print/.requirements.txt.swp
+__pycache__
+node_modules
+*.zip
+.DS_Store
+dist

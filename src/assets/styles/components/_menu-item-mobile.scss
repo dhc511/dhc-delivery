@@ -1,0 +1,70 @@
+.menu-item-mobile {
+    border-radius: 4px;
+    padding: 1rem;
+    position: relative;
+    margin: 0.7rem 0;
+    background: $white;
+    box-shadow: $normal-shadow;
+
+    &__body {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+
+        &__img-frame {
+            padding-top: 0.7rem;
+
+            img {
+                border-radius: 0.8rem;
+            }
+        }
+
+        &__price {
+            margin-top: 1rem;
+            text-align: center;
+            font-weight: 500;
+            font-size: 1.5rem;
+            color: $gray;
+        }
+    }
+
+    &__footer {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        padding: 0 0.5rem;
+        margin-top: 2rem;
+
+        i {
+            line-height: 3.5rem;
+            font-size: 2.5rem;
+            color: #dadada;
+            margin-right: 15px;
+            padding-right: 15px;
+            border-right: 1px dashed #bbbbbb;
+
+            &:hover {
+                transition: 0.2s ease-out;
+                color: $accent-color;
+                text-shadow: 1px 1px 3px $primary-color;
+            }
+        }
+
+        button {
+        }
+    }
+
+    .info {
+        padding: 0 1rem;
+
+        &__name {
+            font-weight: 600;
+            color: $gray;
+            font-size: 1.5rem;
+        }
+
+        &__description {
+            color: $light-gray;
+        }
+    }
+}

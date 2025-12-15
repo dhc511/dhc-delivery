@@ -1,0 +1,20 @@
+//Abstracts
+@import "abstracts/index";
+
+//Base setting
+@import "~bootstrap/scss/bootstrap.scss";
+@import "bases/base";
+@import "bases/typography";
+@import "bases/vendors";
+
+// Layout
+@import "layouts/layout";
+
+//Components
+@import "components/index";
+
+//Responsive
+@import "layouts/responsive";
+
+//Pages
+@import "pages/index";
